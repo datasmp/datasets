@@ -1,0 +1,12 @@
+State: Ohio
+    City: Columbus
+    City: Cleveland
+
+State: Florida
+    City: Miami
+    City: Tampa
+    City: Orlando
+
+State: Oklahoma
+    City: Tulsa
+    City: Norman
