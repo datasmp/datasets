@@ -1,0 +1,72 @@
+Email-1
+Message: Hello!
+From: michael@nba.com
+To: tim@ibm.com
+Email-2
+Message: Where are you?
+From: sam@microsoft.com
+To: joe@tesla.com
+Email-3
+Message: I will go tomorrow.
+From: ashley@cnn.com
+To: jenny@abc.com
+Email-4
+Message: Send me your report ASAP!
+From: amy@txam.edu
+To: bob@osu.edu
+Email-5
+Message: Meeting time is 8 am.
+From: michael@nba.com
+To: tim@ibm.com
+Email-6
+Message: The project discussion is set for 10 a.m.
+From: sarah@google.com
+To: john@amazon.com
+Email-7
+Message: The client presentation will start at 2 p.m.
+From: emily@apple.com
+To: david@meta.com
+Email-8
+Message: The quarterly report submission is due by 5 p.m.
+From: anna@netflix.com
+To: liam@hulu.com
+Email-9:
+Message: Please confirm your attendance for the training session at 3 p.m.
+From: lucas@microsoft.com
+To: sophia@adobe.com
+Email-10:
+Message: The system maintenance is scheduled for midnight. Ensure backups are complete.
+From: oliver@aws.com
+To: mia@oracle.com
+Email-11:
+Message: The vendor meeting has been rescheduled to 11 a.m. tomorrow.
+From: charlotte@zoom.com
+To: noah@slack.com
+Email-12:
+Message: The budget review call is planned for 4 p.m. today. Let me know if it works for you.
+From: ethan@stripe.com
+To: ava@square.com
+Email-13:  
+Message: The product launch meeting is set for 10 a.m. tomorrow.  
+From: alice@tesla.com  
+To: bob@spacex.com  
+Email-14:  
+Message: Please review the latest draft of the marketing plan by 6 p.m. today.  
+From: charlie@google.com  
+To: diane@amazon.com  
+Email-15:  
+Message: The IT team will conduct a system audit at 8 p.m. tonight.  
+From: edward@microsoft.com  
+To: fiona@oracle.com   
+Email-17:  
+Message: The next sprint planning meeting is scheduled for 2 p.m. on Monday.  
+From: ian@slack.com  
+To: julia@zoom.com  
+Email-18:  
+Message: The yearly performance review will be held on Friday at 1 p.m.  
+From: xavier@linkedin.com  
+To: zoe@github.com  
+Email-19:  
+Message: Don't forget to submit your travel reimbursement forms by Friday.  
+From: george@uber.com  
+To: helen@lyft.com 
